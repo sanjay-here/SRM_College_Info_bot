@@ -28,15 +28,17 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/srm-college-info-bot.git
+git clone https://github.com/sanjay-here/SRM_College_Info_bot.git
 cd srm-college-info-bot
 
 2. Install Dependencies
 
-npm install
+>npm install
+
 3. Run the Development Server
 
-npm start
+>npm start
+
 Visit http://localhost:3000 to view the chatbot in action.
 
 💡 Example Questions
