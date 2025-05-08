@@ -1,0 +1,31 @@
+{
+  "admission": {
+    "undergraduate": {
+      "eligibility": "Minimum 60% in 10+2 with Physics, Chemistry, and Mathematics/Biology",
+      "entrance_exam": "SRMJEEE",
+      "application_fee": "₹1100",
+      "application_mode": "Online and Offline"
+    },
+    "postgraduate": {
+      "eligibility": "Bachelor's degree in relevant field with a minimum of 60%",
+      "entrance_exam": "SRMJEEM for MBA, SRMJEEE PG for M.Tech",
+      "application_fee": "₹1100",
+      "application_mode": "Online and Offline"
+    },
+    "doctoral": {
+      "eligibility": "Master's degree in relevant field with a minimum of 60%",
+      "entrance_exam": "SRM Research Entrance Test (SRMRET)",
+      "application_fee": "₹1100",
+      "application_mode": "Online and Offline"
+    },
+    "documents": [
+      "10th and 12th Mark Sheets",
+      "Transfer Certificate",
+      "Migration Certificate (if applicable)",
+      "Community Certificate (if applicable)",
+      "Entrance Exam Score Card",
+      "Passport Size Photographs"
+    ]
+  },
+  "info": "Admission to SRM Ramapuram is based on merit through entrance examinations. The process is transparent and student-friendly."
+}

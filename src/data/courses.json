@@ -1,0 +1,47 @@
+{
+  "courses": {
+    "undergraduate": [
+      "B.Tech Computer Science and Engineering",
+      "B.Tech Electronics and Communication Engineering",
+      "B.Tech Electrical and Electronics Engineering",
+      "B.Tech Mechanical Engineering",
+      "B.Tech Civil Engineering",
+      "B.Tech Information Technology",
+      "B.Tech Artificial Intelligence and Data Science",
+      "B.Tech Robotics and Automation",
+      "B.Tech Biotechnology",
+      "B.Tech Biomedical Engineering",
+      "B.Tech Aerospace Engineering",
+      "B.Tech Automobile Engineering",
+      "B.Tech Chemical Engineering",
+      "B.Tech Mechatronics Engineering",
+      "B.Tech Software Engineering",
+      "B.Tech Computer Science and Design",
+      "B.Tech Computer Science and Business Systems"
+    ],
+    "postgraduate": [
+      "M.Tech Structural Engineering",
+      "M.Tech VLSI Design",
+      "M.Tech Power Systems",
+      "M.Tech Software Engineering",
+      "M.Tech Data Science",
+      "M.Tech Artificial Intelligence",
+      "M.Tech Embedded Systems",
+      "M.Tech Communication Systems",
+      "M.Tech Thermal Engineering",
+      "M.Tech CAD/CAM",
+      "M.Tech Biotechnology",
+      "M.Tech Biomedical Engineering",
+      "M.Tech Robotics and Automation",
+      "MBA",
+      "MCA"
+    ],
+    "doctoral": [
+      "Ph.D. in Engineering",
+      "Ph.D. in Management",
+      "Ph.D. in Science",
+      "Ph.D. in Humanities"
+    ]
+  },
+  "info": "SRM Ramapuram offers a wide range of undergraduate, postgraduate, and doctoral programs across various disciplines. All courses are approved by AICTE and affiliated with SRM Institute of Science and Technology."
+}

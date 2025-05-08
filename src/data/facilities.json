@@ -1,0 +1,63 @@
+{
+  "facilities": {
+    "academic": [
+      {
+        "name": "Laboratories",
+        "description": "State-of-the-art laboratories equipped with modern equipment and technology"
+      },
+      {
+        "name": "Smart Classrooms",
+        "description": "Technology-enabled classrooms with interactive learning tools"
+      },
+      {
+        "name": "Central Library",
+        "description": "Extensive collection of books, journals, and digital resources"
+      },
+      {
+        "name": "Research Centers",
+        "description": "Dedicated centers for advanced research and development"
+      }
+    ],
+    "hostel": [
+      {
+        "name": "Student Accommodation",
+        "description": "Separate hostels for boys and girls with 24/7 security and Wi-Fi"
+      },
+      {
+        "name": "Mess Facilities",
+        "description": "Modern mess serving nutritious meals with multiple dining options"
+      }
+    ],
+    "sports": [
+      {
+        "name": "Sports Complex",
+        "description": "Indoor and outdoor sports facilities including gymnasium"
+      }
+    ],
+    "medical": [
+      {
+        "name": "Medical Center",
+        "description": "On-campus medical facility with qualified staff and hospital tie-ups"
+      }
+    ],
+    "transport": [
+      {
+        "name": "Transportation",
+        "description": "College buses covering major routes with pick-up and drop facilities"
+      }
+    ],
+    "cafeteria": [
+      {
+        "name": "Food Courts",
+        "description": "Multiple food courts offering variety of cuisines"
+      }
+    ],
+    "banking": [
+      {
+        "name": "Banking Services",
+        "description": "ATM facilities and bank tie-ups for student accounts"
+      }
+    ]
+  },
+  "info": "SRM Ramapuram provides comprehensive facilities to ensure a comfortable and enriching campus life for students."
+}

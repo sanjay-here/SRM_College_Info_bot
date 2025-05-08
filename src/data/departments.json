@@ -1,0 +1,37 @@
+{
+  "departments": {
+    "engineering": [
+      "Department of Computer Science and Engineering",
+      "Department of Electronics and Communication Engineering",
+      "Department of Electrical and Electronics Engineering",
+      "Department of Mechanical Engineering",
+      "Department of Civil Engineering",
+      "Department of Information Technology",
+      "Department of Artificial Intelligence and Data Science",
+      "Department of Robotics and Automation",
+      "Department of Biotechnology",
+      "Department of Biomedical Engineering",
+      "Department of Aerospace Engineering",
+      "Department of Automobile Engineering",
+      "Department of Chemical Engineering",
+      "Department of Mechatronics Engineering",
+      "Department of Software Engineering",
+      "Department of Computer Science and Design",
+      "Department of Computer Science and Business Systems"
+    ],
+    "management": [
+      "Department of Management Studies"
+    ],
+    "science": [
+      "Department of Physics",
+      "Department of Chemistry",
+      "Department of Mathematics"
+    ],
+    "humanities": [
+      "Department of English",
+      "Department of Economics",
+      "Department of Psychology"
+    ]
+  },
+  "info": "SRM Ramapuram has multiple academic departments across engineering, management, science, and humanities streams, each equipped with state-of-the-art facilities and experienced faculty members."
+}

@@ -1,0 +1,83 @@
+{
+  "clubs": {
+    "technical": [
+      {
+        "name": "Robotics Club",
+        "description": "Platform for robotics enthusiasts to build and innovate"
+      },
+      {
+        "name": "Coding Club",
+        "description": "Community of programming enthusiasts"
+      },
+      {
+        "name": "Electronics Club",
+        "description": "Hands-on experience with electronic projects"
+      },
+      {
+        "name": "Mechanical Club",
+        "description": "Forum for mechanical engineering activities"
+      }
+    ],
+    "cultural": [
+      {
+        "name": "Dance Club",
+        "description": "Platform for dance enthusiasts"
+      },
+      {
+        "name": "Music Club",
+        "description": "Group for musical talent development"
+      },
+      {
+        "name": "Drama Club",
+        "description": "Theatre and performing arts group"
+      },
+      {
+        "name": "Fine Arts Club",
+        "description": "Creative arts and crafts community"
+      }
+    ],
+    "literary": [
+      {
+        "name": "Literary Club",
+        "description": "Forum for literature and creative writing"
+      },
+      {
+        "name": "Debate Club",
+        "description": "Platform for developing oratory skills"
+      },
+      {
+        "name": "Quiz Club",
+        "description": "Knowledge enhancement through quizzing"
+      }
+    ],
+    "sports": [
+      {
+        "name": "Cricket Club",
+        "description": "Cricket training and tournaments"
+      },
+      {
+        "name": "Football Club",
+        "description": "Football practice and competitions"
+      },
+      {
+        "name": "Badminton Club",
+        "description": "Badminton coaching and tournaments"
+      },
+      {
+        "name": "Table Tennis Club",
+        "description": "Table tennis training and matches"
+      }
+    ],
+    "entrepreneurship": [
+      {
+        "name": "Entrepreneurship Cell",
+        "description": "Platform for aspiring entrepreneurs"
+      },
+      {
+        "name": "Startup Incubation Center",
+        "description": "Support system for student startups"
+      }
+    ]
+  },
+  "info": "Student clubs at SRM Ramapuram provide opportunities for skill development and networking beyond academics."
+}

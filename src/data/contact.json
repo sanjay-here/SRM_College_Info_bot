@@ -1,0 +1,19 @@
+{
+  "contact": {
+    "address": "SRM Institute of Science and Technology, Ramapuram Campus, Bharathi Salai, Ramapuram, Chennai – 600 089, Tamil Nadu, India",
+    "phone": [
+      "+91 44 4392 3042",
+      "+91 44 4392 3133",
+      "+91 1800 102 1525 (Toll Free)"
+    ],
+    "email": "helpdesk@srmrmp.edu.in",
+    "website": "https://srmrmp.edu.in",
+    "placement_contact": {
+      "name": "M. Karthick",
+      "designation": "Head – Placements",
+      "mobile": "+91 99622 21050",
+      "email": "placement.rmp@srmist.edu.in"
+    }
+  },
+  "info": "For any queries regarding admissions, academics, or general information, feel free to contact us through any of the provided channels."
+}

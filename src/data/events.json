@@ -1,0 +1,60 @@
+{
+  "events": {
+    "annual_fests": [
+      {
+        "name": "Kriti",
+        "type": "Technical Fest",
+        "description": "Annual technical symposium featuring competitions and workshops"
+      },
+      {
+        "name": "Madhuram",
+        "type": "Cultural Fest",
+        "description": "Cultural extravaganza showcasing talent in arts and performance"
+      },
+      {
+        "name": "Sparsh",
+        "type": "Sports Meet",
+        "description": "Annual sports competition across multiple disciplines"
+      }
+    ],
+    "workshops": [
+      {
+        "name": "Robotics Workshop",
+        "description": "Hands-on training in robotics and automation"
+      },
+      {
+        "name": "Coding Bootcamps",
+        "description": "Intensive programming training sessions"
+      },
+      {
+        "name": "Entrepreneurship Programs",
+        "description": "Workshops on startup development and business skills"
+      }
+    ],
+    "guest_lectures": [
+      {
+        "name": "Industry Expert Talks",
+        "description": "Sessions by industry professionals sharing real-world insights"
+      },
+      {
+        "name": "Alumni Interactions",
+        "description": "Interactive sessions with successful alumni"
+      }
+    ],
+    "competitions": [
+      {
+        "name": "Hackathons",
+        "description": "24-hour coding competitions"
+      },
+      {
+        "name": "Quiz Competitions",
+        "description": "Knowledge-testing events across various domains"
+      },
+      {
+        "name": "Debate Tournaments",
+        "description": "Platform for intellectual discourse"
+      }
+    ]
+  },
+  "info": "SRM Ramapuram hosts various events throughout the academic year to promote holistic development of students."
+}

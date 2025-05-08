@@ -1,0 +1,31 @@
+{
+  "placements": {
+    "statistics": {
+      "total_offers": "5100+",
+      "companies_visited": "1100+",
+      "average_salary": "₹8-12 LPA",
+      "highest_salary": "₹45 LPA"
+    },
+    "top_recruiters": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Tata Consultancy Services (TCS)",
+      "Accenture",
+      "Cognizant",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "Zoho"
+    ],
+    "sectors": [
+      "Information Technology",
+      "Software Development",
+      "Manufacturing",
+      "Consulting",
+      "Banking and Finance",
+      "Research and Development"
+    ]
+  },
+  "info": "The placement cell at SRM Ramapuram has an excellent track record of placing students in leading companies across various sectors."
+}
