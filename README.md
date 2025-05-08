@@ -37,7 +37,7 @@ cd srm-college-info-bot
 
 3. Run the Development Server
 
->npm start
+>npm run dev
 
 Visit http://localhost:3000 to view the chatbot in action.
 
