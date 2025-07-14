@@ -17,7 +17,7 @@ The **SRM College Info Bot** is a smart, interactive chatbot built with **React.
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js
-- **Styling**: Tailwind CSS / CSS Modules (customize based on your setup)
+- **Styling**: Tailwind CSS / CSS Modules (customize based on our setup)
 - **State Management**: useState, useEffect (React Hooks)
 
 ---
