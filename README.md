@@ -1,3 +1,6 @@
+[Live Demo](https://srm-college-info-chatbot.vercel.app/)
+
+
 # SRM Ramapuram College Info Bot 🎓💬
 
 The **SRM College Info Bot** is a smart, interactive chatbot built with **React.js** to provide instant and accurate information about **SRM Institute of Science and Technology – Ramapuram Campus**. Designed as part of an AI mini project, the bot helps students, parents, and visitors easily explore courses, departments, facilities, and campus details through both **typed input** and **clickable options**.
