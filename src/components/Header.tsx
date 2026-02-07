@@ -9,7 +9,7 @@ const Header: React.FC = () => {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <img 
-            src="/SRM_logo.jpg" 
+            src="https://res.cloudinary.com/dmdienrqm/image/upload/v1770462219/SRM_logo_z4ushy.jpg" 
             alt="SRM Logo" 
             className="h-20 hover:scale-105 transition-transform duration-300"
           />
